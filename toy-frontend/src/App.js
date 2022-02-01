@@ -10,6 +10,7 @@ import ProductScreen from './Screens/ProductScreen'
 import AboutScreen from './Screens/AboutScreen'
 import ContactScreen from './Screens/ContactScreen'
 import LocationsScreen from './Screens/LocationsScreen';
+import AddProductScreen from './Screens/AddProductScreen';
 
 //import routing for page navigation
 import {
@@ -30,6 +31,10 @@ function App() {
             <Route exact path ="/locations" element={<LocationsScreen/>}/>
             <Route exact path ="/about" element={<AboutScreen/>}/>
             <Route exact path ="/contact" element={<ContactScreen/>}/>
+
+
+            
+            <Route exact path ="/admin/addproduct" element={<AddProductScreen/>}/>
           </Routes>
         <Footer />
       </Router>

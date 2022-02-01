@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react';
-import {Container, Row, Col, Button} from 'react-bootstrap'
+import {Container, Row, Col} from 'react-bootstrap'
 import Location from '../Components/Location'
 import Loader from '../Components/Loader'
 import axios from 'axios'

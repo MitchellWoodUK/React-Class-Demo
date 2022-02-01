@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ToyAPI",
+    "\\ToyAPI\\Controllers"
   ],
+  "SelectedNode": "\\ToyAPI\\Controllers\\LocationController.cs",
   "PreviewInSolutionExplorer": false
 }
