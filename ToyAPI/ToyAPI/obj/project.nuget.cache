@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kq0xS0wy/MzQmKxT02IrgRzCdg5yTlhrpIwk5AJy/Hkev+NS5RBHXES4oCapvQ3svHU3vRNRb0OwiSEeG75iAQ==",
+  "dgSpecHash": "xJ3cO2vz7HYCoQ4IfBedKVOXv+CcRW3SdtPj1E6GSNwKa7umhbs6Ty2+LDk/BtmhiFLL3fCtnVq23mvh6YysPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\woo15904504\\OneDrive - Bridgwater and Taunton College\\ReactClassDEMO\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj",
+  "projectFilePath": "C:\\Users\\woo15904504\\OneDrive - Bridgwater and Taunton College\\ReactClassDemo2022\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\woo15904504\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\woo15904504\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

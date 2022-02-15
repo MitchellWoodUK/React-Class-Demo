@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\woo15904504\\OneDrive - Bridgwater and Taunton College\\ReactClassDEMO\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj": {}
+    "C:\\Users\\woo15904504\\OneDrive - Bridgwater and Taunton College\\ReactClassDemo2022\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\woo15904504\\OneDrive - Bridgwater and Taunton College\\ReactClassDEMO\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj": {
+    "C:\\Users\\woo15904504\\OneDrive - Bridgwater and Taunton College\\ReactClassDemo2022\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\woo15904504\\OneDrive - Bridgwater and Taunton College\\ReactClassDEMO\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj",
+        "projectUniqueName": "C:\\Users\\woo15904504\\OneDrive - Bridgwater and Taunton College\\ReactClassDemo2022\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj",
         "projectName": "ToyAPI",
-        "projectPath": "C:\\Users\\woo15904504\\OneDrive - Bridgwater and Taunton College\\ReactClassDEMO\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj",
+        "projectPath": "C:\\Users\\woo15904504\\OneDrive - Bridgwater and Taunton College\\ReactClassDemo2022\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj",
         "packagesPath": "C:\\Users\\woo15904504\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\woo15904504\\OneDrive - Bridgwater and Taunton College\\ReactClassDEMO\\React-Class-Demo\\ToyAPI\\ToyAPI\\obj\\",
+        "outputPath": "C:\\Users\\woo15904504\\OneDrive - Bridgwater and Taunton College\\ReactClassDemo2022\\React-Class-Demo\\ToyAPI\\ToyAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\woo15904504\\AppData\\Roaming\\NuGet\\NuGet.Config",

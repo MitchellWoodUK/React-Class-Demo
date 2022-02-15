@@ -12,6 +12,8 @@ import ContactScreen from './Screens/ContactScreen'
 import LocationsScreen from './Screens/LocationsScreen';
 import AddProductScreen from './Screens/AddProductScreen';
 import SingleProductScreen from './Screens/SingleProductScreen';
+import ManageProductsScreen from './Screens/ManageProductsScreen';
+import EditProductsScreen from './Screens/EditProductScreen';
 //import routing for page navigation
 import {
   BrowserRouter as Router,
@@ -38,6 +40,8 @@ function App() {
 
             
             <Route exact path ="/admin/addproduct" element={<AddProductScreen/>}/>
+            <Route exact path ='/admin/manageproducts' element={<ManageProductsScreen/>}/>
+            <Route exact path ='/admin/product/edit/:id' element={<EditProductsScreen/>}/>
           </Routes>
         <Footer />
       </Router>
